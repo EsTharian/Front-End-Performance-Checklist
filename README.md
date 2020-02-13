@@ -3,12 +3,12 @@
   <a href="https://github.com/thedaviddias/Front-End-Performance-Checklist"><img src="https://raw.githubusercontent.com/thedaviddias/Front-End-Performance-Checklist/master/images/logo-front-end-performance-checklist.jpg" alt="Front-End Performance Checklist" width="170"></a>
   <br>
     <br>
-  Front-End Performance Checklist
+  Front-End Performans Kontrol Listesi
   <br>
 </h1>
 
-<h4 align="center">🎮 The only Front-End Performance Checklist that runs faster than the others.</h4>
-<p align="center">One simple rule: "Design and code with performance in mind"</p>
+<h4 align="center">🎮 Diğerlerinden daha hızlı çalışan tek Front-End Performans Kontrol listesi...</h4>
+<p align="center">Tek basit kural: "Performansı göz önünde bulundurarak tasarla ve kodla"</p>
 
 <p align="center">
   <a href="http://makeapullrequest.com">
@@ -23,40 +23,42 @@
 </p>
 
 <p align="center">
-  <a href="#how-to-use">How To Use</a> • <a href="#contributing">Contributing</a> • <a href="http://feedback.frontendchecklist.io/">Roadmap</a> • <a href="https://www.producthunt.com/posts/front-end-performance-checklist">Product Hunt</a>
+  <a href="#how-to-use">Nasıl Kullanılır</a> • <a href="#contributing">Katkı Sağla</a> • <a href="http://feedback.frontendchecklist.io/">Yol Haritası</a> • <a href="https://www.producthunt.com/posts/front-end-performance-checklist">Product Hunt</a>
 </p>
 
 <p align="center">
+  <a href="https://github.com/thedaviddias/Front-End-Performance-Checklist">🌍</a>
   <a href="https://github.com/JohnsenZhou/Front-End-Performance-Checklist">🇨🇳</a>
   <a href="https://github.com/WilliamDASILVA/Front-End-Performance-Checklist">🇫🇷</a>
   <a href="https://github.com/ParkSB/Front-End-Performance-Checklist">🇰🇷</a>  
   <a href="https://github.com/fernandofawkes/Front-End-Performance-Checklist">🇵🇹</a>
   <a href="https://github.com/lex111/Front-End-Performance-Checklist">🇷🇺</a>
+  <a href="https://github.com/EsTharian/Front-End-Performance-Checklist">🇹🇷</a>
 </p>
 
 <p align="center">
-    <span>Other Checklists:</span>
+    <span>Diğer Kontrol Listeleri:</span>
     <br>
-  🗂 <a href="https://github.com/thedaviddias/Front-End-Checklist#---------front-end-checklist-">Front-End Checklist</a> • 💎 <a href="https://github.com/thedaviddias/Front-End-Design-Checklist#front-end-design-checklist">Front-End Design Checklist</a>
+  🗂 <a href="https://github.com/thedaviddias/Front-End-Checklist#---------front-end-checklist-">Front-End Kontrol Listesi (EN)</a> • 💎 <a href="https://github.com/thedaviddias/Front-End-Design-Checklist#front-end-design-checklist">Front-End Tasarım Kontrol Listesi (EN)</a>
 </p>
 
-## Table of Contents
+## İçerik Tablosu
 
 1. **[HTML](#html)**
 2. **[CSS](#css)**
-3. **[Fonts](#fonts)**
-4. **[Images](#images)**
+3. **[Yazı Tipleri](#fonts)**
+4. **[İmajlar](#images)**
 5. **[JavaScript](#javascript)**
-6. **[Server](#server) (in progress)**
-7. **[JS Frameworks](#performances-and-js-frameworks) (in progress)**
+6. **[Sunucu](#server) (in progress)**
+7. **[JS Çatıları](#performances-and-js-frameworks) (in progress)**
 
-## Introduction
+## Giriş
 
-Performance is a huge subject, but it's not always a "back-end" or an "admin" subject: it's a Front-End responsibility too. The Front-End Performance Checklist is an exhaustive list of elements you should check or at least be aware of, as a Front-End developer and apply to your project (personal and professional).
+Performans çok önemli bir meseledir ancak her zaman "back-end" veya "admin" meselesi değildir: aynı zamanda Front-end sorumluluğudur. Bu Front-End Performans Kontrol Listesi de Front-end geliştirici olarak kontrol etmeniz veya en azından farkında olmanız ve projelerinizde (kişisel veya profesyonel) uygulamanız gereken şeylerin ayrıntılı bir listesidir.
 
-### How to use?
+### Nasıl Kullanılır?
 
-For each rule, you will have a paragraph explaining *why* this rule is important and *how* you can fix it. For more deep information, you should find links that will point to 🛠 tools, 📖 articles or 📹 medias that can complete the checklist.
+Her kural için *neden* bu kural önemlidir ve *nasıl* bunu çözersiniz sorularını açıklayan bir paragraf göreceksiniz. Daha derine inmek isterseniz bu kontrol listesini tamamlayan araçların (🛠), makalelerin (📖) veya medyaların (📹) linklerini bulacaksınız.
 
 All items in the **Front-End Performance Checklist** are essentials to achieve the highest performance score but you would find an indicator to help you to eventually prioritised some rules amount others. There are 3 levels of priority:
 
